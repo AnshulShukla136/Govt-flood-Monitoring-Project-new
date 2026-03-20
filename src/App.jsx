@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Login from "./pages/auth/Login";
 import Register from "./pages/auth/Register";
 
-import DashboardLayout from "./layouts/Dashboardlayout";
+import DashboardLayout from "./layouts/DashboardLayout";
 import MainDashboard from "./pages/dashboard/MainDashboard";
 import Upload from "./pages/dashboard/Upload";
 import DataList from "./pages/dashboard/DataList.jsx";
